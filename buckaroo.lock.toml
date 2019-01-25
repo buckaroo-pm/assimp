@@ -1,0 +1,85 @@
+manifest = "5f88045dd2fdd4c19e450f6f29a9c24362f77042ba79781080d467fdb60e2d5f"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/google-poly2tri"
+target = "//:poly2tri"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/irrlicht-irrxml"
+target = "//:irrxml"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/kimkulling-openddl-parser"
+target = "//:openddlparser"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/kuba-zip"
+target = "//:miniz"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/ledger-utfcpp"
+target = "//:utfcpp"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/mapbox-rapidjson"
+target = "//:rapidjson"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/nmoinvaz-minizip"
+target = "//:minizip"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/openexr-openexr"
+target = "//OpenEXR:openexr"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/skyrpex-clipper"
+target = "//:clipper"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/unicode-convertutf"
+target = "//:convertutf"
+
+[lock."github.com/buckaroo-pm/google-poly2tri"]
+versions = [ "branch=master" ]
+revision = "6e7b82f812f29b2358e17b33c1878c85882b2df2"
+
+[lock."github.com/buckaroo-pm/host-pthread"]
+versions = [ "branch=master" ]
+revision = "a62519aa69c8e3243d6065fbf4c1d2de072f86f6"
+
+[lock."github.com/buckaroo-pm/irrlicht-irrxml"]
+versions = [ "branch=master" ]
+revision = "efc10ce7a134f241decf31eaa1d9fb81f399772d"
+
+[lock."github.com/buckaroo-pm/kimkulling-openddl-parser"]
+versions = [ "branch=master" ]
+revision = "f85b46e8ed485f26d27f8db2d041752dc3989417"
+
+[lock."github.com/buckaroo-pm/kuba-zip"]
+versions = [ "branch=master" ]
+revision = "e6e718d64454a34e2984e5684874b18c160f14c8"
+
+[lock."github.com/buckaroo-pm/ledger-utfcpp"]
+versions = [ "branch=master" ]
+revision = "9674114525f46f37f54792690a8ca6b2717c1a3d"
+
+[lock."github.com/buckaroo-pm/mapbox-rapidjson"]
+versions = [ "branch=master" ]
+revision = "44ccecfb229c4862ef4fa924a4841749196abfc7"
+
+[lock."github.com/buckaroo-pm/nmoinvaz-minizip"]
+versions = [ "branch=1.2" ]
+revision = "2a750715a9217b47ff73f9aeefeeab2903a34cdd"
+
+[lock."github.com/buckaroo-pm/openexr-openexr"]
+versions = [ "branch=master" ]
+revision = "38e1a6805a20f7100eaa522d588997bc34438f07"
+
+[lock."github.com/buckaroo-pm/skyrpex-clipper"]
+versions = [ "branch=master" ]
+revision = "df4fc76046e87cc4140770c8cff7eec2af210185"
+
+[lock."github.com/buckaroo-pm/unicode-convertutf"]
+versions = [ "branch=master" ]
+revision = "51ee74e1ac2604179a56cff6f9f33885f67084f2"

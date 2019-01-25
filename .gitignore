@@ -101,3 +101,10 @@ buckaroo
 buckaroo_macros.bzl
 .buckconfig.d
 .buckconfig.local
+
+buck-out
+.buckd
+buckaroo
+buckaroo_macros.bzl
+.buckconfig.d
+.buckconfig.local

@@ -1,0 +1,40 @@
+
+[[dependency]]
+package = "github.com/buckaroo-pm/google-poly2tri"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/irrlicht-irrxml"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/kimkulling-openddl-parser"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/kuba-zip"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/ledger-utfcpp"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/mapbox-rapidjson"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/nmoinvaz-minizip"
+version = "branch=1.2"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/openexr-openexr"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/skyrpex-clipper"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/unicode-convertutf"
+version = "branch=master"
